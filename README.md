@@ -1,2 +1,3 @@
 # wear-body
 modify lammps to change particle shape
+This is a test to check how this works ... I have changed this and that ...
